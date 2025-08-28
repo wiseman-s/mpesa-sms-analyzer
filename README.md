@@ -21,7 +21,7 @@ You can download all demo files as a zip:
 
 ## How to Run
 
-1. Open mpesa sms analyzer.ipynb in [Google Colab](https://colab.research.google.com/).  
+1. Open mpesa sms analyzer.ipynb in python 
 2. Upload mpesa_demo.zip or individual CSV files as needed.  
 3. Run the notebook cells to see analysis and visualizations.  
 
