@@ -1,7 +1,5 @@
 # M-Pesa SMS Analyzer
 
-![M-Pesa Analysis Chart](https://via.placeholder.com/600x300.png?text=M-Pesa+Chart)
-
 A demo project analyzing M-Pesa SMS data for spending insights.  
 This project was created for portfolio purposes and demonstrates how to parse, visualize, and summarize M-Pesa transaction data.
 
