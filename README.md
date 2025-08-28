@@ -1,6 +1,6 @@
 # M-Pesa SMS Analyzer
 
-![M-Pesa Analysis Chart](bar_chart.png)
+![M-Pesa Analysis Chart](https://via.placeholder.com/600x300.png?text=M-Pesa+Chart)
 
 A demo project analyzing M-Pesa SMS data for spending insights.  
 This project was created for portfolio purposes and demonstrates how to parse, visualize, and summarize M-Pesa transaction data.
@@ -23,7 +23,7 @@ You can download all demo files as a zip:
 
 ## How to Run
 
-1. Open mpesa sms analyzer.ipynb in your python desktop  
+1. Open mpesa sms analyzer.ipynb in [Google Colab](https://colab.research.google.com/).  
 2. Upload mpesa_demo.zip or individual CSV files as needed.  
 3. Run the notebook cells to see analysis and visualizations.  
 
